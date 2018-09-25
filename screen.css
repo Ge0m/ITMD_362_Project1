@@ -216,7 +216,7 @@ html{
   font-size: 16px;
   text-shadow: 1px 1px 1px #000;
   color: white;
-  background-image: url("images/rl1.png");
+  background-image: url("images/rl1.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -281,7 +281,7 @@ input{
   #container{
     text-align: center;
     margin: auto;
-    margin-top: 20%;
+    margin-top: 25%;
     margin-bottom: 50%;
   }
    
@@ -317,9 +317,25 @@ input{
   }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px){  
+  h1{
+    font-size: 2.986em;
+  }
+  
+  label{
+    font-size: 2.074em;
+  }
+  
+  input{
+    width: 45%;
+  }
+  
   input{
     width: 30%;
+  }
+  
+  #username{
+    margin-top: 5%;
   }
   
   #container{
