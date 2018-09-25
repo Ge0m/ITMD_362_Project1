@@ -20,6 +20,12 @@ input {
   box-sizing: border-box;
 }
 
+fieldset{
+    border-radius: 12px;
+    border: 2px solid grey;
+    background-color: white;
+}
+
 @media screen and (min-width: 480px){
     
 }
