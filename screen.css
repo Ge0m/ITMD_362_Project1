@@ -313,7 +313,7 @@ input{
   }
    
   #submit {
-    font-size: 1.2em;
+    font-size: 1em;
   }
 }
 
@@ -325,10 +325,6 @@ input{
   #container{
     margin-top: 10%;
     margin-bottom: 50%;
-  }
-   
-  #submit {
-    font-size: 1em;
   }
 }
 
