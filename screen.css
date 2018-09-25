@@ -317,4 +317,20 @@ input{
   }
 }
 
+@media screen and (min-width: 1024px){
+  input{
+    width: 30%;
+  }
+  
+  #container{
+    margin-top: 10%;
+    margin-bottom: 50%;
+  }
+   
+  #submit {
+    font-size: 1em;
+  }
+}
+
+
 
