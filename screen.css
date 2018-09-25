@@ -211,9 +211,9 @@ textarea {
 /*Mobile First CSS*/
 
 html{
-    line-height: 1.2em;
-    font-family: Calibri;
-    font-size: 16px;
+  line-height: 1.2em;
+  font-family: Calibri;
+  font-size: 16px;
 }
 
 label{
@@ -232,12 +232,6 @@ input{
   box-sizing: border-box;
 }
 
-fieldset{
-    border-radius: 12px;
-    border: 2px solid grey;
-    background-color: white;
-}
-
 @media screen and (min-width: 480px){
   input{
     width: 60%;
@@ -248,11 +242,7 @@ fieldset{
     box-sizing: border-box;
   }
   
-  fieldset{
-    width: 100%;
-    border-radius: 12px;
-    border: 2px solid grey;
-    background-color: white;
+  #container{
     text-align: center;
     margin: auto;
   }
