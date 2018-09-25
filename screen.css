@@ -235,11 +235,11 @@ input{
   box-sizing: border-box;
 }
 
-#logo{
-  display: block;
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
+#container{
+  text-align: center;
+  margin: auto;
+  margin-top: 40%;
+  margin-bottom: 40%;
 }
 
 @media screen and (min-width: 480px){
@@ -259,6 +259,8 @@ input{
   #container{
     text-align: center;
     margin: auto;
+    margin-top: 40%;
+    margin-bottom: 40%;
   }
 }
 
@@ -267,3 +269,5 @@ input{
     background-position: center;
   }
 }
+
+
