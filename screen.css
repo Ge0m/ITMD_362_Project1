@@ -232,6 +232,13 @@ input{
   box-sizing: border-box;
 }
 
+#logo{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media screen and (min-width: 480px){
   input{
     width: 60%;
