@@ -313,21 +313,9 @@ input{
   }
 }
 
-@media screen and (min-width: 1024px){  
-  h1{
-    font-size: 2.986em;
-  }
-  
-  label{
-    font-size: 2.074em;
-  }
-  
+@media screen and (min-width: 1024px){   
   input{
-    width: 45%;
-  }
-  
-  input{
-    width: 30%;
+    width: 25%;
   }
 
   #container{
