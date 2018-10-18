@@ -250,6 +250,8 @@ input{
   margin: auto;
   margin-top: 20%;
   margin-bottom: 50%;
+	box-sizing: border-box;
+	background-color: transparent;
 }
 
 @media screen and (min-width: 480px){
@@ -266,7 +268,7 @@ input{
   }
 
   input{
-    width: 60%;
+    width: 96%;
     padding: 12px 20px;
     margin: 8px 0;
     border: 1px solid #7bb9fc;
@@ -279,6 +281,11 @@ input{
     margin: auto;
     margin-top: 25%;
     margin-bottom: 50%;
+		margin-left: 20%;
+		margin-right: 20%;
+		background-color: grey;
+		opacity: 0.9;
+		border-radius: 10px;
   }
    
   #submit {
@@ -300,12 +307,14 @@ input{
   }
   
   input{
-    width: 45%;
+    width: 96%;
   }
   
   #container{
     margin-top: 15%;
     margin-bottom: 50%;
+		margin-left: 20%;
+		margin-right: 20%;
   }
    
   #submit {
@@ -315,12 +324,14 @@ input{
 
 @media screen and (min-width: 1024px){   
   input{
-    width: 25%;
+    width: 96%;
   }
 
   #container{
     margin-top: 10%;
     margin-bottom: 50%;
+		margin-left: 30%;
+		margin-right: 30%;
   }
 }
 
