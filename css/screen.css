@@ -223,16 +223,16 @@ html{
 /*Minor Third Modular Scale*/
 
 h1{
-	font-size: 27.648px;
+  font-size: 27.648px;
 }
 h2{
-	font-size: 23.04px;
+  font-size: 23.04px;
 }
 h3{
-	font-size: 19.2px;
+  font-size: 19.2px;
 }
 p{
-	font-size: 16px;
+  font-size: 16px;
 }
 
 h1{
@@ -256,8 +256,8 @@ input{
   margin: auto;
   margin-top: 20%;
   margin-bottom: 50%;
-	box-sizing: border-box;
-	background-color: transparent;
+  box-sizing: border-box;
+  background-color: transparent;
 }
 
 @media screen and (min-width: 480px){
@@ -283,11 +283,11 @@ input{
     margin: auto;
     margin-top: 25%;
     margin-bottom: 50%;
-		margin-left: 20%;
-		margin-right: 20%;
-		background-color: grey;
-		opacity: 0.9;
-		border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: grey;
+    opacity: 0.9;
+    border-radius: 10px;
   }
 
   #submit {
@@ -309,10 +309,10 @@ input{
   }
 
   #container{
-		margin-top: 15%;
-		margin-bottom: 50%;
-		margin-left: 20%;
-		margin-right: 20%;
+    margin-top: 15%;
+    margin-bottom: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
   }
 
   #submit {
@@ -326,9 +326,9 @@ input{
   }
 
   #container{
-		margin-top: 10%;
-		margin-bottom: 50%;
-		margin-left: 30%;
-		margin-right: 30%;
+    margin-top: 10%;
+    margin-bottom: 50%;
+    margin-left: 30%;
+    margin-right: 30%;
   }
 }
